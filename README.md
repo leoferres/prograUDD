@@ -1,5 +1,7 @@
 # Programación I -- Universidad del Desarrollo
 
+[![Join the chat at https://gitter.im/prograUDD/Lobby](https://badges.gitter.im/prograUDD/Lobby.svg)](https://gitter.im/prograUDD/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ## Introducción
 
 Bienvenidos al sitio principal de los materiales de PrograUDD 1!
