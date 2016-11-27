@@ -8,7 +8,10 @@ Bienvenidos al sitio principal de los materiales de PrograUDD 1!
 
 ### Tutorials/Textos
 
+Hay millones de recursos en la web. Aqui hay una lista de los que más nos gustan a nosotros, pero puede que a ustedes les haga más sentido otros.
+
  - [Python for computer science and engineering](http://www.southampton.ac.uk/~fangohr/training/python/pdfs/Python-for-Computational-Science-and-Engineering.pdf)
+ - [How to Think Like a Computer Scientist](http://interactivepython.org/courselib/static/thinkcspy/index.html)
 
 ### Herramientas
 
