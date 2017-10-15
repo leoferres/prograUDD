@@ -1,0 +1,91 @@
+Id;Day;Day #;Month;Year;Local Time;Played Time;Stadium;Location;Local Team;Visit Team;Local Team Score;Visit Score
+1;Jueves;8;Octubre;2015;15:30;FT;Metropolitano Roberto Melendez;Barranquilla;Colombia;Peru;2;0
+2;Jueves;8;Octubre;2015;16:00;FT;Hernando Siles;La Paz;Bolivia;Uruguay;0;2
+3;Jueves;8;Octubre;2015;21:00;FT;El Monumental - Estadio Monumental Antonio Vespuci;Buenos Aires;Argentina;Ecuador;0;2
+4;Jueves;8;Octubre;2015;16:30;FT;Cachamay;Puerto Ordaz;Venezuela;Paraguay;0;1
+5;Jueves;8;Octubre;2015;20:30;FT;Estadio Nacional Julio Martínez Prádanos;Santiago De Chile;Chile;Brazil;2;0
+6;Martes;13;Octubre;2015;16:00;FT;Estadio Olimpico Atahualpa;Quito;Ecuador;Bolivia;2;0
+7;Martes;13;Octubre;2015;20:00;FT;Estadio Centenario;Montevideo;Uruguay;Colombia;3;0
+8;Martes;13;Octubre;2015;21:00;FT;Defensores del Chaco;Asuncion;Paraguay;Argentina;0;0
+9;Martes;13;Octubre;2015;22:00;FT;Estadio Castelao;Fortaleza;Brazil;Venezuela;3;1
+10;Martes;13;Octubre;2015;21:15;FT;Estadio Nacional;Lima;Peru;Chile;3;4
+11;Jueves;12;Noviembre;2015;16:00;FT;Hernando Siles;La Paz;Bolivia;Venezuela;4;2
+12;Jueves;12;Noviembre;2015;16:00;FT;Estadio Olimpico Atahualpa;Quito;Ecuador;Uruguay;2;1
+13;Jueves;12;Noviembre;2015;20:30;FT;Estadio Nacional Julio Martínez Prádanos;Santiago De Chile;Chile;Colombia;1;1
+14;Viernes;13;Noviembre;2015;21:00;FT;El Monumental - Estadio Monumental Antonio Vespuci;Buenos Aires;Argentina;Brazil;1;1
+15;Viernes;13;Noviembre;2015;21:15;FT;Estadio Nacional;Lima;Peru;Paraguay;1;0
+16;Martes;17;Noviembre;2015;15:30;FT;Metropolitano Roberto Melendez;Barranquilla;Colombia;Argentina;0;1
+17;Martes;17;Noviembre;2015;16:30;FT;Cachamay;Puerto Ordaz;Venezuela;Ecuador;1;3
+18;Martes;17;Noviembre;2015;20:00;FT;Estadio Centenario;Montevideo;Uruguay;Chile;3;0
+19;Martes;17;Noviembre;2015;20:00;FT;Defensores del Chaco;Asuncion;Paraguay;Bolivia;2;1
+20;Martes;17;Noviembre;2015;21:00;FT;Arena Fonte Nova;Salvador;Brazil;Peru;3;0
+21;Jueves;24;Marzo;2016;16:00;FT;Hernando Siles;La Paz;Bolivia;Colombia;2;3
+22;Jueves;24;Marzo;2016;16:00;FT;Estadio Olimpico Atahualpa;Quito;Ecuador;Paraguay;2;2
+23;Jueves;24;Marzo;2016;20:30;FT;Estadio Nacional Julio Martínez Prádanos;Santiago De Chile;Chile;Argentina;1;2
+24;Jueves;24;Marzo;2016;21:15;FT;Estadio Nacional;Lima;Peru;Venezuela;2;2
+25;Viernes;25;Marzo;2016;21:45;FT;Arena Pernambuco;Recife;Brazil;Uruguay;2;2
+26;Martes;29;Marzo;2016;19:00;FT;"Estadio Agustin Tovar ""La Carolina""";Barinas;Venezuela;Chile;1;4
+27;Martes;29;Marzo;2016;20:00;FT;Estadio Centenario;Montevideo;Uruguay;Peru;1;0
+28;Martes;29;Marzo;2016;15:30;FT;Metropolitano Roberto Melendez;Barranquilla;Colombia;Ecuador;3;1
+29;Martes;29;Marzo;2016;20:30;FT;Estadio Mario Alberto Kempes;Cordoba;Argentina;Bolivia;2;0
+30;Martes;29;Marzo;2016;20:45;FT;Defensores del Chaco;Asuncion;Paraguay;Brazil;2;2
+31;Jueves;1;Septiembre;2016;16:00;FT;Hernando Siles;La Paz;Bolivia;Peru;0;3
+32;Jueves;1;Septiembre;2016;15:30;FT;Metropolitano Roberto Melendez;Barranquilla;Colombia;Venezuela;2;0
+33;Jueves;1;Septiembre;2016;16:00;FT;Estadio Olimpico Atahualpa;Quito;Ecuador;Brazil;0;3
+34;Jueves;1;Septiembre;2016;20:00;FT;Defensores del Chaco;Asuncion;Paraguay;Chile;2;1
+35;Jueves;1;Septiembre;2016;20:30;FT;Estadio Malvinas Argentinas;Mendoza;Argentina;Uruguay;1;0
+36;Martes;6;Septiembre;2016;20:30;FT;Estadio Monumental David Arellano;Macul;Chile;Bolivia;3;0
+37;Martes;6;Septiembre;2016;20:00;FT;Estadio Centenario;Montevideo;Uruguay;Paraguay;4;0
+38;Martes;6;Septiembre;2016;19:30;FT;Estadio Metropolitano de Merida;Merida;Venezuela;Argentina;2;2
+39;Martes;6;Septiembre;2016;20:45;FT;Arena Amazonia;Manaus;Brazil;Colombia;2;1
+40;Martes;6;Septiembre;2016;21:15;FT;Estadio Nacional;Lima;Peru;Ecuador;2;1
+41;Jueves;6;Octubre;2016;16:00;FT;Estadio Olimpico Atahualpa;Quito;Ecuador;Chile;3;0
+42;Jueves;6;Octubre;2016;20:00;FT;Estadio Centenario;Montevideo;Uruguay;Venezuela;3;0
+43;Jueves;6;Octubre;2016;20:30;FT;Defensores del Chaco;Asuncion;Paraguay;Colombia;0;1
+44;Jueves;6;Octubre;2016;21:45;FT;Estadio das Dunas;Natal;Brazil;Bolivia;5;0
+45;Jueves;6;Octubre;2016;21:15;FT;Estadio Nacional;Lima;Peru;Argentina;2;2
+46;Martes;11;Octubre;2016;16:00;FT;Hernando Siles;La Paz;Bolivia;Ecuador;2;2
+47;Martes;11;Octubre;2016;15:30;FT;Metropolitano Roberto Melendez;Barranquilla;Colombia;Uruguay;2;2
+48;Martes;11;Octubre;2016;20:30;FT;Estadio Mario Alberto Kempes;Cordoba;Argentina;Paraguay;0;1
+49;Martes;11;Octubre;2016;20:30;FT;Estadio Nacional Julio Martínez Prádanos;Santiago De Chile;Chile;Peru;2;1
+50;Martes;11;Octubre;2016;20:30;FT;Estadio Metropolitano de Merida;Merida;Venezuela;Brazil;0;2
+51;Jueves;10;Noviembre;2016;15:30;FT;Metropolitano Roberto Melendez;Barranquilla;Colombia;Chile;0;0
+52;Jueves;10;Noviembre;2016;20:00;FT;Estadio Centenario;Montevideo;Uruguay;Ecuador;2;1
+53;Jueves;10;Noviembre;2016;20:30;FT;Defensores del Chaco;Asuncion;Paraguay;Peru;1;4
+54;Jueves;10;Noviembre;2016;19:30;FT;Estadio Monumental de Maturin;Maturin;Venezuela;Bolivia;5;0
+55;Jueves;10;Noviembre;2016;21:45;FT;Estadio Mineirao;Belo Horizonte;Brazil;Argentina;3;0
+56;Martes;15;Noviembre;2016;16:00;FT;Hernando Siles;La Paz;Bolivia;Paraguay;1;0
+57;Martes;15;Noviembre;2016;16:00;FT;Estadio Olimpico Atahualpa;Quito;Ecuador;Venezuela;3;0
+58;Martes;15;Noviembre;2016;20:30;FT;Estadio del Bicentenario;San Juan;Argentina;Colombia;3;0
+59;Martes;15;Noviembre;2016;20:30;FT;Estadio Nacional Julio Martínez Prádanos;Santiago De Chile;Chile;Uruguay;3;1
+60;Martes;15;Noviembre;2016;21:15;FT;Estadio Nacional;Lima;Peru;Brazil;0;2
+61;Jueves;23;Marzo;2017;15:30;FT;Metropolitano Roberto Melendez;Barranquilla;Colombia;Bolivia;1;0
+62;Jueves;23;Marzo;2017;20:00;FT;Defensores del Chaco;Asuncion;Paraguay;Ecuador;2;1
+63;Jueves;23;Marzo;2017;20:00;FT;Estadio Centenario;Montevideo;Uruguay;Brazil;1;4
+64;Jueves;23;Marzo;2017;19:30;FT;Estadio Monumental de Maturin;Maturin;Venezuela;Peru;2;2
+65;Jueves;23;Marzo;2017;20:30;FT;El Monumental - Estadio Monumental Antonio Vespuci;Buenos Aires;Argentina;Chile;1;0
+66;Martes;28;Marzo;2017;19:00;FT;Estadio Monumental David Arellano;Macul;Chile;Venezuela;3;1
+67;Martes;28;Marzo;2017;16:00;FT;Hernando Siles;La Paz;Bolivia;Argentina;2;0
+68;Martes;28;Marzo;2017;16:00;FT;Estadio Olimpico Atahualpa;Quito;Ecuador;Colombia;0;2
+69;Martes;28;Marzo;2017;21:45;FT;Arena Corinthians;Sao Paulo;Brazil;Paraguay;3;0
+70;Martes;28;Marzo;2017;21:15;FT;Estadio Nacional;Lima;Peru;Uruguay;2;1
+71;Jueves;31;Agosto;2017;17:00;FT;Estadio Polideportivo de Pueblo Nuevo;San Cristobal;Venezuela;Colombia;0;0
+72;Jueves;31;Agosto;2017;19:30;FT;Estadio Monumental David Arellano;Macul;Chile;Paraguay;0;3
+73;Jueves;31;Agosto;2017;20:00;FT;Estadio Centenario;Montevideo;Uruguay;Argentina;0;0
+74;Jueves;31;Agosto;2017;21:45;FT;Arena do Grêmio;Porto Alegre;Brazil;Ecuador;2;0
+75;Jueves;31;Agosto;2017;21:15;FT;Monumental de Ate 'U';Lima;Peru;Bolivia;2;1
+76;Martes;5;Septiembre;2017;16:00;FT;Hernando Siles;La Paz;Bolivia;Chile;1;0
+77;Martes;5;Septiembre;2017;15:30;FT;Metropolitano Roberto Melendez;Barranquilla;Colombia;Brazil;1;1
+78;Martes;5;Septiembre;2017;16:00;FT;Estadio Olimpico Atahualpa;Quito;Ecuador;Peru;1;2
+79;Martes;5;Septiembre;2017;20:30;FT;El Monumental - Estadio Monumental Antonio Vespuci;Buenos Aires;Argentina;Venezuela;1;1
+80;Martes;5;Septiembre;2017;20:00;FT;Defensores del Chaco;Asuncion;Paraguay;Uruguay;1;2
+81;Jueves;5;Octubre;2017;16:00;FT;Hernando Siles;La Paz;Bolivia;Brazil;0;0
+82;Jueves;5;Octubre;2017;17:00;FT;Estadio Polideportivo de Pueblo Nuevo;San Cristobal;Venezuela;Uruguay;0;0
+83;Jueves;5;Octubre;2017;20:30;FT;Estadio Monumental David Arellano;Macul;Chile;Ecuador;2;1
+84;Jueves;5;Octubre;2017;18:30;FT;Metropolitano Roberto Melendez;Barranquilla;Colombia;Paraguay;1;2
+85;Jueves;5;Octubre;2017;20:30;FT;La Bombonera - Estadio Alberto J. Armando;Buenos Aires;Argentina;Peru;0;0
+86;Martes;10;Octubre;2017;20:30;P;Estadio Centenario;Montevideo;Uruguay;Bolivia;4;2
+87;Martes;10;Octubre;2017;18:30;P;Estadio Nacional;Lima;Peru;Colombia;1;1
+88;Martes;10;Octubre;2017;18:30;P;Estadio Olimpico Atahualpa;Quito;Ecuador;Argentina;1;3
+89;Martes;10;Octubre;2017;20:30;P;Allianz Parque;Sao Paulo;Brazil;Chile;3;0
+90;Martes;10;Octubre;2017;20:30;P;Defensores del Chaco;Asuncion;Paraguay;Venezuela;0;1
